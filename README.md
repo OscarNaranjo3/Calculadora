@@ -1,3 +1,3 @@
 # Calculadora
 Oscar Alejandro Naranjo Quintero
-![Not founded](https://github.com/jorozcove/Calculadora/blob/main/Imagenes-Calculadora/Calculadora1.png?raw=true)
+https://raw.githubusercontent.com/oscarnaranjo3/Calculadora/imagenes-calculadora/assets/calculadora1.png
